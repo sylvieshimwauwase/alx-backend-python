@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""function that returns the list of all the delays (float values)."""
 
 import asyncio
 import random
