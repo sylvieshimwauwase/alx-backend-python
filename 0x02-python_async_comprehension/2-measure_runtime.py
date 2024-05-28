@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""function to measure runtime in parallel"""
+"""execute async comprehension 4 times in parallel"""
 
 import asyncio
 import time
